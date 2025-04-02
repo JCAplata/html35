@@ -7,33 +7,6 @@ body {
     align-items: center;
     height: 100vh;
 }
-
-/* Barra de Navegación */
-nav {
-    background-color: #0a2a3d;
-    padding: 10px;
-    text-align: center;
-    width: 100%;
-}
-nav ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-}
-nav ul li {
-    display: inline;
-    margin-right: 20px;
-}
-nav ul li a {
-    color: white;
-    text-decoration: none;
-    font-weight: bold;
-}
-nav ul li a:hover {
-    text-decoration: underline;
-}
-
-/* Contenedor Principal */
 .container {
     display: flex;
     justify-content: space-between;
